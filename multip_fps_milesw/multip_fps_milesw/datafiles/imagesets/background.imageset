@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Imageset Name="Background" Imagefile="loner.jpg" NativeHorzRes="1600" NativeVertRes="1200" AutoScaled="true">
+	<Image Name="Background" XPos="0.0" YPos="0.0" Width="1600" Height="1200" />
+</Imageset>
